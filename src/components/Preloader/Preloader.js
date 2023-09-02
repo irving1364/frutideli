@@ -1,4 +1,3 @@
-import loader from "@/images/loader.png";
 import React from "react";
 import { Image } from "react-bootstrap";
 
